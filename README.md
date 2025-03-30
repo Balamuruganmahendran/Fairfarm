@@ -1,7 +1,8 @@
 # 🌱 Fairfarm Connect Hub  
 **A Smart Platform Connecting Farmers & Agricultural Dealers**  
 
-![Dashboard Preview](screenshots/dashboard.png)  
+![Dashboard Preview]![Screenshot (42)](https://github.com/user-attachments/assets/bfbaab18-ce74-4673-b5dc-4d3be26987d6)
+  
 
 ## 🌟 What is This Project?  
 A web application that helps farmers:  
