@@ -2,7 +2,10 @@
 **A Smart Platform Connecting Farmers & Agricultural Dealers**  
 
 ![Dashboard Preview]![Screenshot (42)](https://github.com/user-attachments/assets/bfbaab18-ce74-4673-b5dc-4d3be26987d6)
-  
+![Screenshot (43)](https://github.com/user-attachments/assets/d0af094c-77b4-401d-88c5-ac8003767099)
+![Screenshot (44)](https://github.com/user-attachments/assets/eed09d98-f40a-4117-a7b5-2ac653b21bb8)
+![Screenshot (45)](https://github.com/user-attachments/assets/5c773c19-bbc2-4f63-814d-f1492895df50)
+
 
 ## 🌟 What is This Project?  
 A web application that helps farmers:  
